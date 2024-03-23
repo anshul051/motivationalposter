@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+h2{
+    text-align: center;
+    color: aquamarine;
+}
+
+.head{
+    text-transform: uppercase;
+    font-family: "Libre Baskerville", serif;
+    color: aliceblue;
+}
+
+div{
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 50%;
+    margin-top: 49px;
+    border: 2px solid yellow;
+}
+
+p{
+    text-transform: capitalize;
+    color: aliceblue;
+}
